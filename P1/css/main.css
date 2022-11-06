@@ -1,0 +1,7 @@
+#imageUser{
+  border: 1px solid !important;
+  background: grey;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
